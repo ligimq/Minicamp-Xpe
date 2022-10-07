@@ -1,0 +1,13 @@
+Roteiro - curriculo-v1
+======================
+
+(x) Clonar projeto-base
+(x) Trocar títulos
+
+(x) Inserir tags <header> com <h1> e <main>
+
+(x) Dentro de main:
+   (x) Inserir nome
+   (x) Inserir cargos
+   (x) Inserir formação acadêmica
+   (x) Inserir tecnologias
