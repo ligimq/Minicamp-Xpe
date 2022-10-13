@@ -1,7 +1,7 @@
 body {
-  padding: 10px;
+  padding: 30px;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: lightgrey;
+  background-color: rgba(168, 90, 192, 0.658);
 }
 
 #paragraph-result {
